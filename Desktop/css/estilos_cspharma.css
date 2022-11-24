@@ -1,0 +1,26 @@
+/* Background de la web */
+.background-white {
+    background-color: #ffffff;
+}
+
+/* Estilo color background del header */
+.background-green {
+    background-color: #5ccb5f ;
+}
+
+/* Estilo de el nombre de la empresa (en el header) */
+.Title {
+    color: white;
+}
+
+/* Botones */
+
+.button {
+    background-color: white;
+    border-radius: 16px;
+    color: #5dc1b9;
+    border-color: #5dc1b9;
+}
+
+/*  */
+
